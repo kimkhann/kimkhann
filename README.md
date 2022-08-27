@@ -2,7 +2,6 @@
  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimkhann&layout=compact)](https://github.com/kimkhann/github-readme-stats)
 <br>[![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimkhann)](https://solved.ac/kimkhann)
-<br> <img src="http://mazandi.herokuapp.com/api?handle={lc__lc1m}&theme=warm"/>
 
 <!--
 **kimkhann/kimkhann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
